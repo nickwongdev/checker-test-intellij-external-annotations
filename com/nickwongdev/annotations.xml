@@ -1,0 +1,8 @@
+<root>
+    <item name='com.nickwongdev.NullCases java.lang.String getDefaulted()'>
+        <annotation name='org.checkerframework.checker.nullness.qual.Nullable'/>
+    </item>
+    <item name='com.nickwongdev.NullCases java.lang.String getString()'>
+        <annotation name='org.checkerframework.checker.nullness.qual.NonNull'/>
+    </item>
+</root>
